@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- White Circle Base with Blue Border -->
+    <circle cx="100" cy="100" r="96" fill="#ffffff" stroke="#1b75d0" stroke-width="3"/>
+    
+    <!-- Circular Slogan Path -->
+    <path id="sloganPath" d="M 28,100 A 72,72 0 0,1 172,100" fill="none"/>
+    <text>
+        <textPath href="#sloganPath" startOffset="50%" text-anchor="middle" fill="#2b8a3e" font-size="8.2" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" letter-spacing="1">LIGHT UP YOUR POWER NEEDS</textPath>
+    </text>
+    
+    <!-- Left Letter M (Dark Navy Blue) -->
+    <text x="64" y="122" fill="#0a2540" font-size="62" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" text-anchor="middle">M</text>
+    
+    <!-- Right Letter T (Gold/Yellow) -->
+    <text x="136" y="122" fill="#f5a623" font-size="62" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" text-anchor="middle">T</text>
+    
+    <!-- Red Lightning Bolt -->
+    <polygon points="105,48 122,48 108,88 126,88 88,142 102,96 90,96" fill="#ff003c"/>
+    
+    <!-- Word POWERS (Green) -->
+    <text x="100" y="164" fill="#2b8a3e" font-size="19" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" letter-spacing="3" text-anchor="middle">POWERS</text>
+</svg>
